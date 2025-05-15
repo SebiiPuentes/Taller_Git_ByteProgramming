@@ -1,2 +1,2 @@
 # Taller_Git_ByteProgramming.
-Prueba 1.
+Esto es un taller de prueba.
