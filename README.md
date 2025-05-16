@@ -1,3 +1,3 @@
 # Taller_Git_ByteProgramming.
 Esto es un taller de prueba.
-push al mismo tiempo -> Tulio Ria;o
+push al mismo tiempo -> Tulio Riaño Sánchez
